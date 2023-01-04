@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>DSC_0932.JPG</filename>
+	<path>D:\images\DSC_0932.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2585</width>
+		<height>1745</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1418</xmin>
+			<ymin>1242</ymin>
+			<xmax>1780</xmax>
+			<ymax>1409</ymax>
+		</bndbox>
+	</object>
+</annotation>

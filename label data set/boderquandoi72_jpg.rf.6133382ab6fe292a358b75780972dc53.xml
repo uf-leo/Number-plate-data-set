@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>boderquandoi72_jpg.rf.6133382ab6fe292a358b75780972dc53.jpg</filename>
+	<path>boderquandoi72_jpg.rf.6133382ab6fe292a358b75780972dc53.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>442</xmin>
+			<xmax>482</xmax>
+			<ymin>220</ymin>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

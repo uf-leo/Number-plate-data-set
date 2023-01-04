@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>boderngoaigiao4_jpg.rf.9aea2871115035a96b3cdfd8cf424b05.jpg</filename>
+	<path>boderngoaigiao4_jpg.rf.9aea2871115035a96b3cdfd8cf424b05.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>634</xmin>
+			<xmax>788</xmax>
+			<ymin>308</ymin>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>DSC_0363.jpg</filename>
+	<path>D:\images\DSC_0363.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3153</width>
+		<height>2033</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>1232</ymin>
+			<xmax>1001</xmax>
+			<ymax>1429</ymax>
+		</bndbox>
+	</object>
+</annotation>

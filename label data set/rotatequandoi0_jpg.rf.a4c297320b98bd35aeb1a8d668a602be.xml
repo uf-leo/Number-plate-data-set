@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rotatequandoi0_jpg.rf.a4c297320b98bd35aeb1a8d668a602be.jpg</filename>
+	<path>rotatequandoi0_jpg.rf.a4c297320b98bd35aeb1a8d668a602be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>373</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>217</xmin>
+			<xmax>264</xmax>
+			<ymin>170</ymin>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

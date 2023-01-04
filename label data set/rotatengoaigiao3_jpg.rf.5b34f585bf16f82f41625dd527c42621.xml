@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>rotatengoaigiao3_jpg.rf.5b34f585bf16f82f41625dd527c42621.jpg</filename>
+	<path>rotatengoaigiao3_jpg.rf.5b34f585bf16f82f41625dd527c42621.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>453</xmin>
+			<xmax>629</xmax>
+			<ymin>394</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

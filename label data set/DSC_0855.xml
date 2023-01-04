@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>DSC_0855.JPG</filename>
+	<path>D:\images\DSC_0855.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2633</width>
+		<height>1921</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1594</xmin>
+			<ymin>1233</ymin>
+			<xmax>1906</xmax>
+			<ymax>1401</ymax>
+		</bndbox>
+	</object>
+</annotation>

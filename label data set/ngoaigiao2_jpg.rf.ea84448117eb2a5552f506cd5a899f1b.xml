@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ngoaigiao2_jpg.rf.ea84448117eb2a5552f506cd5a899f1b.jpg</filename>
+	<path>ngoaigiao2_jpg.rf.ea84448117eb2a5552f506cd5a899f1b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>47</xmin>
+			<xmax>139</xmax>
+			<ymin>123</ymin>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

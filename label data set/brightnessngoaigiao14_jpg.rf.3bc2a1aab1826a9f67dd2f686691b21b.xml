@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>brightnessngoaigiao14_jpg.rf.3bc2a1aab1826a9f67dd2f686691b21b.jpg</filename>
+	<path>brightnessngoaigiao14_jpg.rf.3bc2a1aab1826a9f67dd2f686691b21b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License_Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>210</xmin>
+			<xmax>317</xmax>
+			<ymin>357</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
